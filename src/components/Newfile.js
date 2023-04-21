@@ -1,7 +1,9 @@
-const Newfile =()=> {
+import React from 'react'
+
+const Price = () => {
   return (
-    <div>Newfile</div>
+    <div>Price</div>
   )
 }
-  
-export default Newfile
+
+export default Price
